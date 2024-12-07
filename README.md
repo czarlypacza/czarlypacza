@@ -12,4 +12,4 @@ Welcome to my GitHub profile! Here are a few things about me:
 -->
 ## My Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=czarlypacza&layout=compact&theme=donut)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=czarlypacza&layout=compact&theme=donut&hide=blade)
