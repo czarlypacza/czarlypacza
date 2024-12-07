@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm czarlypacza 👋
 
-<!--
-**czarlypacza/czarlypacza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here are a few things about me:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my degree
+- 🌱 I’m currently learning C#
+- ⚡ Fun fact: Koalas sleep up to 18-22 hours a day due to their low-energy diet of eucalyptus leaves.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My GitHub Stats
+
+![czarlypacza's GitHub stats](https://github-readme-stats.vercel.app/api?username=czarlypacza&show_icons=true&theme=radical)
+
+## My Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=czarlypacza&layout=compact&theme=donut)
